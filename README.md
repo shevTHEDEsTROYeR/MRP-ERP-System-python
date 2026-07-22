@@ -1,0 +1,2 @@
+# MRP-ERP-System-python
+MRP ERP SYSTEM IN PYTHON
